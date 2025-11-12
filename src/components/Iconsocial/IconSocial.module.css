@@ -1,0 +1,15 @@
+.IconSocial {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 40px;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+
+.IconSocial_img {
+    width: 49px;
+    margin: 9px;
+    
+}

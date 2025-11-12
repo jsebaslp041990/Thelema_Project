@@ -1,0 +1,22 @@
+
+.galleryContainer :global(.image-gallery),
+.galleryContainer :global(.image-gallery-slide-wrapper) {
+  width: 100vw !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.galleryContainer :global(.image-gallery-slide img) {
+  width: 100vw !important;
+  height: auto !important;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+.separator {
+  width: 100%;
+  display: block;
+  margin: 10px 0;
+}
